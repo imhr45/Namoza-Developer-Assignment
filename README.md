@@ -21,7 +21,7 @@
 
 ## Loom Walkthrough
 
-**[Add your Loom video link here]**
+**[https://www.loom.com/share/7cf6113686a8415f9559c10fa2d8bd2b]**
 
 Covers: GTM schema decisions (2 min) → live demo of the landing page form firing the dataLayer push in browser console (3 min) → integration architecture answer (3 min).
 
