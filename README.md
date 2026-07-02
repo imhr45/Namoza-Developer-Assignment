@@ -12,7 +12,7 @@
 - **Task 2 — Landing Page:** [`/Task-2/index.html`](./Task-2/index.html)
   Single self-contained HTML file (HTML + CSS + vanilla JS, no frameworks).
   **Live version:** https://imhr45.github.io/Namoza-Developer-Assignment/Task-2/index.html
-  **PageSpeed Insights (Mobile):** 100 Performance / 91 Accessibility / 100 Best Practices / 100 SEO — see [`/Task-2/pagespeed-screenshot.png`](./Task-2/pagespeed-screenshot.png)
+  **PageSpeed Insights (Mobile):** 100 Performance / 91 Accessibility / 100 Best Practices / 100 SEO — see [`/Task-2/pagespeed-screenshot.png`](./Task-2/pagespeed-screenshot.png.png)
 
 - **Task 3 — Integration Design:** [`/Task-3/Integration_Design.md`](./Task-3/Integration_Design.md)
   Written architecture for connecting the landing page to HubSpot, WhatsApp (Karix), and Google Ads.
